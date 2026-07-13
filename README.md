@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gokul B</h1>
-<h3 align="center">AI & Machine Learning Engineer | Python Developer | Building Intelligent Solutions</h3>
+<h3 align="center">AI & Machine Learning Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=850&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;Building+LLM+%26+RAG+Applications;Streamlit+Dashboard+Developer;Always+Learning+Something+New" />
